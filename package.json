@@ -1,20 +1,6 @@
 {
-  "name": "untitled",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-
-  },
-  "devDependencies": {
-    "@types/node": "^22.14.0",
-    
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
-  }
+  "name": "VimQuest",
+  "description": "A Vim-inspired Adventure Game built with Pygame (Python)",
+  "note": "This project has been converted to Python/Pygame. Use 'pip install -r requirements.txt' and 'python main.py' to run.",
+  "version": "1.0.0"
 }
